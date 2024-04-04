@@ -8,8 +8,6 @@ import dash_bootstrap_components as dbc
 # Add this import statement at the beginning of your Python script
 import urllib.parse
 
-# ... the rest of your code ...
-
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
